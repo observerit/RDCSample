@@ -1,0 +1,11 @@
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\MstscAxLib\bin\Debug\MstscAxLib.dll
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\MstscAxLib\bin\Debug\MstscAxLib.pdb
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\MstscAxLib\bin\Debug\Interop.MSTSCLib.dll
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\MstscAxLib\bin\Debug\AxInterop.MSTSCLib.dll
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\MstscAxLib\obj\Debug\Interop.MSTSCLib.dll
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\MstscAxLib\obj\Debug\AxInterop.MSTSCLib.dll
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\MstscAxLib\obj\Debug\MstscAxLib.csproj.ResolveComReference.cache
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\MstscAxLib\obj\Debug\MstscAxLib.csproj.GenerateResource.Cache
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\MstscAxLib\obj\Debug\MstscAxLib.dll
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\MstscAxLib\obj\Debug\MstscAxLib.pdb
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\MstscAxLib\obj\Debug\MstscAxLib.MstscAxControl.resources

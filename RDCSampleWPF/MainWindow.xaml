@@ -1,0 +1,18 @@
+﻿<Window x:Class="RDCSampleWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="800" Width="1300">
+    <Grid Name="Grid1" Margin="0,0,0,0">
+        <TextBox Name="txtServer" TextWrapping="Wrap" Text="obswk998" Width="195" Height="25" VerticalAlignment="Top" Margin="10,10,1087,0"/>
+        <TextBox Name="txtUserName" Height="25" TextWrapping="Wrap" Text="observer\obsadm" VerticalAlignment="Top" Width="195" Margin="210,10,887,0"/>
+        <Button Name="btnConnect" Content="Connect" Width="75" Click="btnConnect_Click" Height="25" VerticalAlignment="Top" Margin="410,10,807,0"/>
+        <TabControl Name="TabControl1" HorizontalAlignment="Left" Height="720" Margin="10,40,0,0" VerticalAlignment="Top" Width="1272" RenderTransformOrigin="0.5,0.5">
+            <TabItem Name="TabItem0" Header="TabItem">
+                <Grid Name="tiGrid0" Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Name="TabItem1" Header="TabItem">
+                <Grid Name="tiGrid1" Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

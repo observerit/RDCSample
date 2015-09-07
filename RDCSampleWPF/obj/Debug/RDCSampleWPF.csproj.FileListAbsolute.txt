@@ -1,0 +1,14 @@
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\bin\Debug\RDCSampleWPF.exe
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\bin\Debug\RDCSampleWPF.pdb
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\obj\Debug\RDCSampleWPF.csprojResolveAssemblyReference.cache
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\obj\Debug\MainWindow.baml
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\obj\Debug\MainWindow.g.cs
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\obj\Debug\App.g.cs
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\obj\Debug\RDCSampleWPF_MarkupCompile.cache
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\obj\Debug\RDCSampleWPF.g.resources
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\obj\Debug\RDCSampleWPF.Properties.Resources.resources
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\obj\Debug\RDCSampleWPF.csproj.GenerateResource.Cache
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\obj\Debug\RDCSampleWPF.exe
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\obj\Debug\RDCSampleWPF.pdb
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\bin\Debug\AxInterop.MSTSCLib.dll
+D:\Cloud\Dropbox\Visual Studio\RDCSampleWPF\RDCSampleWPF\bin\Debug\Interop.MSTSCLib.dll
